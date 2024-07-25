@@ -1,2 +1,3 @@
-# joplin-config
-📒 My personal Joplin configuration.
+# Introduction
+
+This is my personal Joplin configuration.
